@@ -1,0 +1,6 @@
+CREATE TABLE rotation(
+  code TEXT NOT NULL PRIMARY KEY,
+  format_code TEXT NOT NULL,
+  name TEXT NOT NULL,
+  date_start DATETIME
+);

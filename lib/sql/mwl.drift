@@ -1,0 +1,8 @@
+CREATE TABLE mwl(
+  code TEXT NOT NULL PRIMARY KEY,
+  format_code TEXT NOT NULL,
+  name TEXT NOT NULL,
+  date_start DATETIME,
+  runner_points INT,
+  corp_points INT
+);

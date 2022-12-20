@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "code": "standard",
+      "name": "Standard"
+    },
+    {
+      "code": "startup",
+      "name": "Startup"
+    },
+    {
+      "code": "snapshot",
+      "name": "Snapshot"
+    },
+    {
+      "code": "eternal",
+      "name": "Eternal"
+    },
+    {
+      "code": "napd",
+      "name": "NAPD"
+    }
+  ],
+  "last_updated": "2022-12-20T00:00:00.000",
+  "version_number": "2.0",
+  "success": true,
+  "total": 5
+}

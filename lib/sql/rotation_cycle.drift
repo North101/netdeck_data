@@ -1,0 +1,6 @@
+CREATE TABLE rotation_cycle(
+  rotation_code TEXT NOT NULL,
+  cycle_code TEXT NOT NULL,
+
+  PRIMARY KEY (rotation_code, cycle_code)
+);
